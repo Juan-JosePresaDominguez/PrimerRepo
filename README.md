@@ -1,11 +1,13 @@
 ![Banana Whattsapp](https://github.com/Juan-JosePresaDominguez/PrimerRepo/assets/146178489/50db41bb-87d8-48ea-bc69-e40b1e0924f9)
 
+![Banana Whattsapp Icono](https://github.com/Juan-JosePresaDominguez/PrimerRepo/assets/146178489/4093e4eb-2ec1-47e8-aeff-aab5b6b13cd1)
 
 <!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
-  <a href="https://github.com/Juan-JosePresaDominguez/PrimerRepo/assets/146178489/50db41bb-87d8-48ea-bc69-e40b1e0924f9">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Juan-JosePresaDominguez/BananaWhatsApp.git">
+    <img src="docs/Banana Whattsapp.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Banana Whattsapp</h3>
@@ -98,6 +100,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Autores ✒️
+
+* **Juan José Presa Domínguez** - *Banana Whattsapp* - [GitHub Banana Whattsapp](https://github.com/Juan-JosePresaDominguez/BananaWhatsApp/tree/master)
 
 
 
